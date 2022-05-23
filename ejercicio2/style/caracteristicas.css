@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+body{
+   background-image: url(../imagenes/Eubalaena_glacialis_with_calf.jpg);
+    margin: 20px;
+    padding: 10%;
+    background-repeat: repeat;
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+   font-size: 50px;
+    color: white;
+    text-align: center
+
+}
+h2{
+    color: white;
+    font-size: 30px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+p{
+    color: azure;
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
+    text-align: justify;
+    text-decoration: dotted;
+}

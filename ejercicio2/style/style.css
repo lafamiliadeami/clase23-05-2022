@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+body{
+    background-color: rgb(110, 188, 233);}
+
+#titulo{
+    color: midnightblue;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Abril Fatface', cursive;
+}
+.Subtitulo{
+    background-color: blue;
+    color: white;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    padding: 10px;
+}
+p{
+    color: rgb(23, 15, 247);
+    margin: 30px;
+    border: 5px dotted black;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 25px;
+}
+
+ul{
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+ul li{
+     display: inline-block;
+}
+li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 50px;
+
+}
+li a:hover{
+    background-color: blueviolet;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+table{
+   text-align: center;
+   width: 100%;
+   margin: 0 auto;
+   color: beige;
+   font-family: 'Caveat Brush', cursive ;
+   font-size: 20px;
+}
+table img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
